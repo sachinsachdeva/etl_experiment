@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+/data/raw/*.csv
+/data/processed/*.csv
+/data/load/*.db
+/data/services/
+
+/process_rust/target/
+
+/bench/results/*.json
+/bench/results/*.csv
