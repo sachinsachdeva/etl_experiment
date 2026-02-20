@@ -10,3 +10,4 @@ __pycache__/
 
 /bench/results/*.json
 /bench/results/*.csv
+.DS_Store
