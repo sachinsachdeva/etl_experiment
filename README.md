@@ -1,4 +1,4 @@
-# companion for medium article 
+# Companion for medium article 
 
 [Medium article](https://medium.com/@_sachinsachdeva/10m-rows-same-etl-logic-rust-11-3x-faster-than-python-4905725b7e73?sharedUserId=_sachinsachdeva)
 
