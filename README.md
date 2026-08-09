@@ -1,10 +1,14 @@
+# companion for medium article 
+
+https://medium.com/@_sachinsachdeva/10m-rows-same-etl-logic-rust-11-3x-faster-than-python-4905725b7e73?sharedUserId=_sachinsachdeva
+
 # ETL Performance Benchmark: Rust vs Python
 
 This repository benchmarks a **typical ETL transform stage** where:
 
 - Extract is shared (`pipeline/extract/generate_dummy_data.py`)
 - Load is shared (`pipeline/load/load_sqlite.py`)
-- Only transform differs:
+- Only transform differs:a
   - Python (`process_python/process.py`)
   - Rust (`process_rust/src/main.rs`)
 
